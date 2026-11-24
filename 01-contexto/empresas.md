@@ -65,25 +65,35 @@ Tipos de empresa que puedes usar: venta y distribución · soporte y mantenimien
 
 **1. ¿Qué personas de RedesMancha se encargarían de instalar la red de una oficina? ¿Qué hace cada una?**
 
-Respuesta: …
+Respuesta: - Técnicos de redes: instalan los cables, routers y puntos wifi.
+- Técnicos de sistemas: configuran los servidores y los equipos.
+- Administrativa: prepara los contratos y gestiona las facturas y los pagos.
 
 **2. Un cliente lleva a TecnoTienda un portátil que no arranca. ¿Quién recoge el equipo y quién lo repara?**
 
-Respuesta: …
+Respuesta: - Dependiente o personal de tienda: recoge el portátil y registra la reparación.
+
+- Técnico del taller: revisa el portátil, encuentra el problema y lo repara.
 
 **3. ¿Qué funciones necesita Aplicaciones Centro para desarrollar una aplicación y mantenerla después? Nombra al menos tres y quién las hace.**
 
-Respuesta: …
+Respuesta: - Programadores: desarrollan la aplicación.
+
+- Técnicos de mantenimiento: corrigen errores y actualizan la aplicación.
+
+- Atención al cliente: resuelve las dudas de los usuarios.
+
+- Administrativa: gestiona las facturas y los pagos.
 
 ## Parte C · Necesidades de los clientes
 
 **4. Una gestoría necesita instalar una red informática y configurar un servidor. ¿A cuál de las tres empresas contratarías? ¿Por qué?**
 
-Respuesta: …
+Respuesta: Contrataría a RedesMancha (empresa B) porque se dedica a instalar redes informáticas, configurar servidores y mantener los sistemas.
 
 **5. Una tienda de ropa necesita una aplicación de gestión a medida. ¿A cuál de las tres empresas contratarías? ¿Por qué?**
 
-Respuesta: …
+Respuesta: Contrataría a Aplicaciones Centro (empresa C) porque desarrolla aplicaciones de gestión adaptadas a las necesidades de cada cliente.
 
 ## Ampliación opcional · Organigrama
 
